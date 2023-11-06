@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-06T07:30:36Z" name="Default suite" finished-at="2023-11-06T07:30:40Z" duration-ms="4234">
+    <groups>
+    </groups>
+    <test started-at="2023-11-06T07:30:36Z" name="Default test" finished-at="2023-11-06T07:30:40Z" duration-ms="4234">
+      <class name="EndToEnd.Phase3ProjectClass">
+        <test-method signature="TC01_getallEmployee()[pri:0, instance:EndToEnd.Phase3ProjectClass@571c5681]" started-at="2023-11-06T07:30:36Z" name="TC01_getallEmployee" finished-at="2023-11-06T07:30:39Z" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_getallEmployee -->
+        <test-method signature="TC02_postEmployee()[pri:0, instance:EndToEnd.Phase3ProjectClass@571c5681]" started-at="2023-11-06T07:30:39Z" name="TC02_postEmployee" finished-at="2023-11-06T07:30:40Z" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_postEmployee -->
+        <test-method signature="TC03_updateEmployee()[pri:0, instance:EndToEnd.Phase3ProjectClass@571c5681]" started-at="2023-11-06T07:30:40Z" name="TC03_updateEmployee" finished-at="2023-11-06T07:30:40Z" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_updateEmployee -->
+        <test-method signature="TC04_getSingleEmployee()[pri:0, instance:EndToEnd.Phase3ProjectClass@571c5681]" started-at="2023-11-06T07:30:40Z" name="TC04_getSingleEmployee" finished-at="2023-11-06T07:30:40Z" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04_getSingleEmployee -->
+        <test-method signature="TC05_deleteEmployee()[pri:0, instance:EndToEnd.Phase3ProjectClass@571c5681]" started-at="2023-11-06T07:30:40Z" name="TC05_deleteEmployee" finished-at="2023-11-06T07:30:40Z" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05_deleteEmployee -->
+        <test-method signature="TC06_getSingleEmployee()[pri:0, instance:EndToEnd.Phase3ProjectClass@571c5681]" started-at="2023-11-06T07:30:40Z" name="TC06_getSingleEmployee" finished-at="2023-11-06T07:30:40Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC06_getSingleEmployee -->
+        <test-method signature="TC07_allgetEmployee()[pri:0, instance:EndToEnd.Phase3ProjectClass@571c5681]" started-at="2023-11-06T07:30:40Z" name="TC07_allgetEmployee" finished-at="2023-11-06T07:30:40Z" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC07_allgetEmployee -->
+      </class> <!-- EndToEnd.Phase3ProjectClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
